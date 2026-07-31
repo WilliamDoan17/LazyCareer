@@ -35,7 +35,7 @@ Branch naming, commit format, PR expectations, and the ADR process. Read the com
 
 ## You're now oriented. Next:
 
-**Picking up a module?** Read that folder's `README.md` and `AGENTS.md` — every module folder has both. Start with [`career-memory/`](../../career-memory/README.md); everything else depends on it.
+**Picking up a module?** Read that folder's `README.md` and `AGENTS.md` — every module folder has both. Start with [`career-memory/`](../career-memory/README.md); everything else depends on it.
 
 **About to make a decision?** Check [`decisions/`](decisions/) first — it may already be made. If it's genuinely open, it's probably in [`open-questions.md`](open-questions.md).
 
